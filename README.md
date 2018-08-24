@@ -2,7 +2,7 @@
  Welcome to BLACK JACK GAME
  
  This game is writeen in Python. Two files Jupyter Notebook and simple .py files are available in the repository.
- The game can be played between player and dealer. The maximum bet the player can rise is 100 for each hand. Delare rises cards till total reaches 17
+ The game can be played between player and dealer. The maximum bet the player can rise is 100 for each hand. Delare rises cards till total reaches 17.
  Clone the repository, and run the file in any editor you are comfortable with, the game starts and hope you'll enjoy this simple game.
  
 Game Play:
